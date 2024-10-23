@@ -1,0 +1,13 @@
+python-dotenv==1.0.1
+streamlit==1.37.0
+langchain==0.2.16
+langchain-community==0.2.10
+langchain-text-splitters==0.2.2
+langchain-groq==0.1.9
+faiss-cpu==1.9.0
+huggingface-hub==0.25.2
+transformers==4.43.3
+sentence-transformers==3.0.1
+torch==2.2.0
+unstructured==0.15.0
+unstructured[pdf]==0.15.0
